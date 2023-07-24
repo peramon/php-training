@@ -1,5 +1,6 @@
 <?php
     // Method POST
+    // POST -> The post method hides them
     if($_POST){
         // Recive information from html form
         $name=$_POST['txtName'];
